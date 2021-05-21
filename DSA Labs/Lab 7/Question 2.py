@@ -8,6 +8,7 @@ def selectionSort(A):
 
         A[i], A[min_index] = A[min_index], A[i]
 
+
 A = [84, 29, 32, 84, 9]
 selectionSort(A)
 print(A)
