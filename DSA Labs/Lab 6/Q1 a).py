@@ -17,4 +17,3 @@ for i in range(10):
 print(l)
 insertionSortAlgorithm(l)
 print(l)
-
